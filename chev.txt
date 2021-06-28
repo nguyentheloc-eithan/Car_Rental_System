@@ -1,0 +1,8 @@
+    Chevrolet Vivant
+
+Length x Length x Width (mm)   :          4,350 x 1,755 x 1,580
+Base length (mm)               :          2.600
+Front two-wheeled distance (mm):	  1.476
+Two-wheeled distance (mm)      :          1.480
+Fuel tank capacity (liters)    :          60
+Tire specifications            :  195/60R15

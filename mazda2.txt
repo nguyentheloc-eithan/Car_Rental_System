@@ -1,0 +1,15 @@
+  Mazda 2
+
+Length x Length x Width (mm)   :          4,320 x 1,695 x 1,470 
+Base length (mm)               :          2,570
+Front two-wheeled distance (mm):	  1.510
+Two-wheeled distance (mm)      :          1.410
+Fuel tank capacity (liters)    :          50
+Tire specifications            :  205/60R15
+
+. LED front lights, automatic car lights (Sedan Deluxe Halogen version)
+. Front fog lights
+. Automatic wiper blades (Sedan Deluxe intermittent wiper version)
+. 16-inch alloy wheels (15-inch Sedan Deluxe version)
+. Leather +felt car seat (Sedan Premium) (leather seat hatchback)/ (Sedan Delux felt seat version)
+. Leather steering wheel (Sedan Deluxe smooth steering wheel version)
