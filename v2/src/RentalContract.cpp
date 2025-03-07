@@ -6,7 +6,7 @@ RentalContract::RentalContract(const Customer &customer, const Vehicle &vehicle,
 
 void RentalContract::displayContractDetails() const
 {
-    customer.displayCustomerDetails();
+    customer.displayServiceHistory();
     vehicle.displayDetails();
     std::cout << "Rental Period: " << startDate << " to " << endDate << std::endl;
     std::cout << "Total Cost: $" << totalCost << std::endl;
