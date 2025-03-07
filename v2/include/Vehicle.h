@@ -1,7 +1,6 @@
 #ifndef VEHICLE_H
 #define VEHICLE_H
 
-#include "Service.h"
 #include <string>
 #include <list>
 
@@ -12,17 +11,19 @@ protected:
     std::string model;
     int year;
     std::string licensePlate;
-    std::list<Service> serviceHistory; // List of services performed on the vehicle
+    bool hasRented;
 
 public:
     Vehicle(const std::string &make, const std::string &model, int year, const std::string &licensePlate);
     virtual ~Vehicle() = default;
 
     virtual void displayDetails() const;
+    std::string getMake() const;
+    std::string getModel() const;
+    int getYear() const;
     std::string getLicensePlate() const;
-
-    void addService(const Service &service);
-    void displayServiceHistory() const;
+    bool isAvailable() const;
+    void setAvailable(bool hasRented);
 };
 
 #endif // VEHICLE_H

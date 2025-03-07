@@ -1,0 +1,16 @@
+[
+    {
+        "hasRented": false,
+        "licensePlate": "HV2022",
+        "make": "Honda",
+        "model": "CRV",
+        "year": 2022
+    },
+    {
+        "hasRented": true,
+        "licensePlate": "MZX5",
+        "make": "Mazda",
+        "model": "CX5",
+        "year": 2023
+    }
+]

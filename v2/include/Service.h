@@ -2,14 +2,13 @@
 #define SERVICE_H
 
 #include <string>
-#include <iostream>
 
 class Service
 {
 private:
-    std::string serviceType; // Type of service (e.g., Engine, Transmission, Tires)
-    std::string date;        // Date of service
-    std::string description; // Description of the service
+    std::string serviceType;
+    std::string date;
+    std::string description;
 
 public:
     Service(const std::string &serviceType, const std::string &date, const std::string &description);
