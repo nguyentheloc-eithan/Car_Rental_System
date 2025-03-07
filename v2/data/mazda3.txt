@@ -1,0 +1,14 @@
+Mazda 3
+
+Length x Length x Width (mm)   :          4.660 x 1.795 x 1.435
+Base length (mm)               :          2.725
+Front two-wheeled distance (mm):	  1.540
+Two-wheeled distance (mm)      :          1.510
+Fuel tank capacity (liters)    :          50
+Tire specifications            :  205/60R15
+
+. ABS Anti-Lock Brake System
+. EBD Electronic Brake Distribution System
+. BA Emergency Brake Assist System
+. TCS Anti-Slip Traction Control System
+. Key anti-copy encryption
