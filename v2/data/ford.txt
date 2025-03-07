@@ -1,0 +1,16 @@
+  Ford
+
+Length x Length x Width (mm)   :          48920 x 1860x 1837 
+Base length (mm)               :          2,570
+Front two-wheeled distance (mm):	  1.510
+Two-wheeled distance (mm)      :          1.410
+Fuel tank capacity (liters)    :          60
+Tire specifications            :  265/60/R18
+
+. EBD – Electronic brake force distribution system.
+. ABS – Anti-lock brake system.
+. ESP – Electronic balancing system.
+. There are 6 eyes sensors that support parking after
+. HLA – Steep departure support system.
+. The safety system of 9 airbags includes: Two vertical curtain airbags on the ceiling of the car,
+  two front airbags for the driver & rear passenger, the side airbags.

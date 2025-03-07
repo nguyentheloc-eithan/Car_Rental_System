@@ -1,0 +1,16 @@
+ Kia Morning
+
+Length x Length x Width (mm)   :          3595 x 1595 x 1495 
+Base length (mm)               :          2,400
+Front two-wheeled distance (mm):	  1.460
+Two-wheeled distance (mm)      :          1.415
+Fuel tank capacity (liters)    :          60
+Tire specifications            :  265/60/R18
+
+. EBD  Electronic brake force distribution system.
+. Engine details
+  Kappa 1.2L Engine, 4 Cylinder 16 Valve DOHC, 4 Cylinders
+. Transmission 5-Speed, Front Bridge - FWD
+. Fuel type : gasoline
+. Max Power (KW@ rpm) 61.9/6000
+

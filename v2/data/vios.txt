@@ -1,0 +1,8 @@
+    Vios
+
+Length x Length x Width (mm)   :          4,425 x 1,730 x 1,475
+Base length (mm)               :          2.550
+Front two-wheeled distance (mm):	  1.476
+Two-wheeled distance (mm)      :          1.500
+Fuel tank capacity (liters)    :          42
+Tire specifications            :  195/60R15
