@@ -13,3 +13,18 @@ std::string Vehicle::getLicensePlate() const
 {
     return licensePlate;
 }
+
+void Vehicle::addService(const Service &service)
+{
+    serviceHistory.push_back(service);
+}
+
+void Vehicle::displayServiceHistory() const
+{
+    std::cout << "Service History for Vehicle (" << licensePlate << "):" << std::endl;
+    for (const auto &service : serviceHistory)
+    {
+        service.displayServiceDetails();
+        std::cout << "-------------------" << std::endl;
+    }
+}
